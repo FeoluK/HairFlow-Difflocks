@@ -25,3 +25,4 @@ venv/
 *.pt
 *.pth
 difflocks_checkpoints.zip
+*.zip
