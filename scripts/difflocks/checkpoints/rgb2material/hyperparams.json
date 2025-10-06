@@ -1,0 +1,9 @@
+{
+    "nr_iters_to_train": 500000,
+    "lr": 0.001,
+    "save_checkpoint": true,
+    "save_checkpoint_every_x_epoch": 10,
+    "with_tensorboard": true,
+    "with_visualizer": false,
+    "viewer_config_path": "/home/alex/c_ws/src/hair_forge/./configs/strand_vae_train.toml"
+}

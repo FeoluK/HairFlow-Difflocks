@@ -1,0 +1,16 @@
+accelerate==0.31.0
+torch==2.5.0
+torchvision==0.20.0
+opencv-python==4.9.0.80
+mediapipe==0.10.10
+trimesh==4.0.4
+jsonmerge==1.9.2
+dctorch==0.1.2
+einops==0.8.1
+torchdiffeq==0.2.5
+torchsde==0.2.6
+wheel==0.41.2
+setuptools==59.5.0
+libigl==2.5.1
+
+
