@@ -26,3 +26,5 @@ venv/
 *.pth
 difflocks_checkpoints.zip
 *.zip
+scripts/difflocks/outputs_inference/
+scripts/difflocks/checkpoints/difflocks_diffusion/*.pth
